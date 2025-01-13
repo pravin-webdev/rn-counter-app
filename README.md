@@ -1,2 +1,0 @@
-# rn-counter-app
- 
